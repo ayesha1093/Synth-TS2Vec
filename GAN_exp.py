@@ -1,4 +1,4 @@
-#https://github.com/proceduralia/pytorch-GAN-timeseries/tree/8e7d62fed6f4061d13ec9dfd84e07520d4257ed2
+# partially adopted from https://github.com/proceduralia/pytorch-GAN-timeseries/tree/8e7d62fed6f4061d13ec9dfd84e07520d4257ed2
 
 import torch
 import numpy as np
